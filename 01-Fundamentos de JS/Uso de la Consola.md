@@ -9,17 +9,23 @@ Principalmente la consola servirá para encontrar errores en nuestro código de 
 
 ## Ejecutar código
 También nos permitirá ejecutar código JS directamente en nuestro navegador. En la consola veremos el siguiente símbolo '>', en donde podemos introducir los siguientes ejemplos:
-> prompt('Cuál es tu nombre?'); // Respuesta < '20'
-> alert('Error'); // Respuesta < undefined
-> confirm('Deseas borrar ese elemento?') // Respuesta < booleano
+
+`> prompt('Cuál es tu nombre?');` // Respuesta < '20'
+
+`> alert('Error');` // Respuesta < undefined`
+
+`> confirm('Deseas borrar ese elemento?')` // Respuesta < booleano
 
 ## Limpiar la consola
 Para limpiar la consola se ocupa la función: clear(), o en el símbolo de prohibído.
 
 ## Operaciones aritméticas
 Como JS es un lenguaje de programación se pueden ejecutar operaciones aritmética, por ejemplo:
+
 > 2 + 2
+
 < 4
+
 Si se trabaja con números se verán en azul en la consola.
 
 ## Ventana global
