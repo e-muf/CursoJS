@@ -40,6 +40,6 @@ for(let i = 0; i < autos.length; i++) {
     console.log(`${autos[i].modelo} ${autos[i].motor}`);
 }
 
-// Aunque la vairable se de tipo const, se puede modificar si accedemos a cada uno de los valores
+// Aunque la variable se de tipo const, se puede modificar si accedemos a cada uno de los valores
 autos[0].modelo = 'Audi';
 console.log(autos)
