@@ -11,8 +11,3 @@ Dentro de cada carpeta de cada sección hay un archivo *index.html* y una carpet
 - En la carpeta *js* se encontrará el código fuente de los temas de cada sección, muchos de estos contienen anotaciones acerca de como funciona el script o información de cada función.
 
 Por lo que, si se quiere estudiar se tendrá que revisar el código fuente dentro de la carpeta *js* y para concer el resultado se deberá ejecutar el archivo *index.html* descomentando el archivo que se quiere visualizar.
-
-## Node JS
-Si se tiene instalado Node JS en la computadora se puede utilziar el siguiente comando:
-
-`node [archivo].js`
