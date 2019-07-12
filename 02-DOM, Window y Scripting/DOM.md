@@ -21,7 +21,7 @@ De acuerdo al DOM, todos los *HTML-tag* son un objeto, donde los tags anidados s
 
 El DOM tiene una estructura jerárquica, a cada elemento se le conoce como *nodo*, un *nodo* no es necesariamente un *tag* ya que un nodo puede ser de texto, un atrubuto, entre otros elementos, en general se puede representar de la siguiente manera:
 
-![Doom tree](imagenes/DOMtree.png)
+![DOM tree](imagenes/DOMtree.PNG)
 
 
 
