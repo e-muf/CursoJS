@@ -33,10 +33,8 @@ function cargarNombres(event) {
 
     // Crear FETCH
     fetch(url)
-        .then(function(response) {
-            return response.json();
-        })
-        .then(function(data) {
+        .then(response => response.json())
+        .then(data => {
             let html = `<h2 style="text-align: center">Nombres Generados</h2>`;
             html+= `<ul class="lista">`;
 
@@ -49,7 +47,5 @@ function cargarNombres(event) {
             html += `</ul>`;
 
             document.querySelector('#resultado').innerHTML = html;
-        }).catch(function(error) {
-            console.log(error);
-        })
+        }).catch(error => console.log(error));
 }
