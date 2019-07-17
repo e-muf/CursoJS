@@ -1,7 +1,6 @@
-# CursoJS
+# JS - Reference
 Este repositorio sirve como referencia para el lenguaje de programación JS.
-
-El curso se divide en varias secciones, empezando por fundamentos, hasta realizar algunos proyectos en JS.
+Se divide en varias secciones, empezando por fundamentos, hasta realizar algunos proyectos en JS.
 
 ## Estructura del repositorio
 Dentro de cada carpeta de cada sección hay un archivo *index.html* y una carpeta *js*:
